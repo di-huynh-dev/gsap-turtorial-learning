@@ -1,0 +1,45 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#page1 {
+  height: 100%;
+  width: 100%;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#page2 {
+  height: 100%;
+  width: 100%;
+  background-color: lightpink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#page3 {
+  height: 100%;
+  width: 100%;
+  background-color: chocolate;
+}
+
+#box {
+  width: 300px;
+  height: 300px;
+  background-color: red;
+}
+
+#page3 h1 {
+  color: white;
+  font-size: 100px;
+}
+
+#page3 h2 {
+  color: white;
+  font-size: 100px;
+}
